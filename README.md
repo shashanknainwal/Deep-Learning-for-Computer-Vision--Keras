@@ -1,6 +1,6 @@
 # Deep-Learning-for-Computer-Vision--Keras
 
-####just copy and paste the below given code to your shell
+
 
 #KERAS
 from keras.models import Sequential
